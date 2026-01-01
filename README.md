@@ -1,5 +1,16 @@
 # 💫 About Me:
-i am a 4th year cybersecurity student <br>i am currently working on a client project in the company i did my 6 months intership in<br>i am a cloud enthusiast <br>i am also versatile and quick in learning new skills<br>
+# Hi there, I'm Mohit! 👋
+
+### 🌩️ Cloud Engineer & Cybersecurity Student
+
+I am a **4th-year Cybersecurity student** passionate about building secure and scalable cloud infrastructure. I thrive in dynamic environments where I can leverage my versatility to solve complex problems.
+
+- 🎓 **Current Status:** Final-year student focusing on Cloud Security and Development.
+- 💼 **Experience:** Currently working on a live client project at **Xpress Gaming**, having been retained after a successful 6-month technical internship.
+- ☁️ **Interests:** Cloud Engineering, Secure Infrastructure, and Backend Development.
+- ⚡ **Superpower:** I'm a versatile developer who learns quickly—whether it's a new cloud platform or a complex framework, I adapt fast to get the job done.
+
+---
 
 
 ## 🌐 Socials:
