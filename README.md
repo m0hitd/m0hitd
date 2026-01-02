@@ -7,7 +7,7 @@ I am a **4th-year Cybersecurity student** passionate about building secure and s
 
 - 🎓 **Current Status:** Final-year student focusing on Cloud Security and Development.
 - 💼 **Experience:** Currently working on a live client project at **Xpress Gaming**, having been retained after a successful 6-month technical internship.
-- ☁️ **Interests:** Cloud Engineering, Secure Infrastructure, and Backend Development.
+- ☁️ **Interests:** Cloud Engineering, Secure Infrastructure, and DevOps.
 - ⚡ **Superpower:** I'm a versatile developer who learns quickly—whether it's a new cloud platform or a complex framework, I adapt fast to get the job done.
 
 ---
