@@ -59,12 +59,48 @@ Specializing in **containerized workloads (Kubernetes/GKE)**, **Infrastructure-a
 ## 💼 Professional Experience
 
 ### **Technical Intern → Retained Client Project**
-**Xpress Gaming** | Pune, Maharashtra | *June 2025 – November 2025*
+**Xpress Gaming** | Pune, Maharashtra | *June 2025 – Present*
 
 - **Engineered automation solutions** reducing manual art asset processing time by **35%** across cross-functional teams
 - **Designed and deployed production-ready applications** with focus on scalability, reliability, and operational efficiency
 - **Built internal tooling infrastructure** to standardize asset generation, organization, and versioning—eliminating daily coordination overhead between 3+ teams
 - **Collaborated with technical and creative teams** to understand requirements and deliver solutions that directly improved operational metrics
+
+---
+
+## 🚀 Featured Projects
+
+### **Infrastructure Automation Platform**
+**Role:** Full-Stack Engineer | **Tech Stack:** React | Node.js | Docker | Terraform | GCP | GitHub Actions
+
+**Key Achievements:**
+- Developed a **full-stack dashboard** for automated GCP resource provisioning and management
+- Implemented **Infrastructure-as-Code (IaC) workflows** using modular Terraform modules with environment-based configuration
+- Built **GitHub Actions CI/CD pipelines** for automated testing, validation, and deployment
+- Integrated **Terraform Cloud backend** for state management and collaborative infrastructure lifecycle management
+- **Result:** Reduced infrastructure provisioning time from manual deployments to automated, repeatable workflows
+
+**Technical Highlights:**
+- Modular, reusable Terraform code supporting multi-environment deployments (dev, staging, prod)
+- RESTful APIs connecting frontend UI to infrastructure provisioning backend
+- Automated testing and validation in CI/CD pipeline for reliability
+
+---
+
+### **Kubernetes-Native Flask Deployment with Helm & Auto-Scaling**
+**Role:** DevOps Engineer | **Tech Stack:** Kubernetes (GKE) | Helm | Python (Flask) | Docker | GCP | Prometheus
+
+**Key Achievements:**
+- **Architected and deployed** containerized Flask backend on Google Kubernetes Engine (GKE)
+- Designed **modular Helm Charts** for Infrastructure-as-Code cluster management (Deployments, Services, ConfigMaps, StatefulSets)
+- Implemented **Horizontal Pod Autoscaler (HPA)** for dynamic workload scaling based on CPU utilization thresholds
+- Configured **resource limits and health checks** (liveness/readiness probes) for production-grade reliability
+- Set up **Prometheus monitoring** for cluster and application-level metrics
+
+**Technical Highlights:**
+- Standardized Helm Charts eliminating manual configuration errors and reducing deployment time
+- Auto-scaling ensuring high availability under variable traffic loads while optimizing cloud costs
+- Production-ready security posture with IAM-restricted networking and resource quotas
 
 ---
 
@@ -125,29 +161,41 @@ I'm particularly interested in roles where I can:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hitd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=m0hitd&theme=dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hitd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=400)](https://github.com/m0hitd)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m0hitd&theme=dark&hide_border=false)](https://github.com/m0hitd)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&theme=dark&hide_border=false&layout=compact&card_width=400)](https://github.com/m0hitd)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m0hitd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m0hitd&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/m0hitd)
+
+</div>
 
 ---
 
-## 📝 Random Dev Quote
+## 📝 Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+> *"Infrastructure is code, and code must be reliable, scalable, and secure."* — DevOps Philosophy
 
 ---
 
 ## 👁️ Profile Views
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=m0hitd&icon=1&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square)
+
+</div>
 
 ---
 
