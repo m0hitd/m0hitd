@@ -1,4 +1,4 @@
-# Hi there, I'm Mohit Debnath 👋
+# Hi there, I'm Mohit Debnath 
 
 **Google Cloud Certified Associate Cloud Engineer | DevOps & Cloud Infrastructure Specialist**
 
