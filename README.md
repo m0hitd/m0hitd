@@ -68,7 +68,26 @@ Specializing in **containerized workloads (Kubernetes/GKE)**, **Infrastructure-a
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
+
+### **AI ENTERPRISE ARCHITECT**
+Role: Full-Stack Engineer | Tech Stack: React | TypeScript | Vite | Gemini AI | Mermaid.js | Excalidraw | Firebase
+
+Key Achievements:
+
+=Built a browser-based AI architecture tool that converts plain-English requirements into production-ready multi-cloud infrastructure proposals in seconds
+Integrated Google Gemini 2.5 Flash with a structured JSON schema to consistently return 3 ranked architecture proposals — each containing a diagram, Terraform HCL, and monthly cost estimate.
+-Implemented a Mermaid → Excalidraw rendering pipeline that transforms AI-generated diagram syntax into fully interactive, pannable/zoomable architecture canvases with cloud-provider SVG icon overlays.
+-Built a Terraform code viewer with HCL syntax highlighting, one-click copy, and .tf file download — enabling direct deployment from the browser
+Deployed via Firebase Hosting with a Vite build pipeline, serving a fully client-side SPA with zero backend infrastructure.
+-Result: End-to-end architecture design workflow — from a sentence of requirements to deployable Terraform code — achieved entirely in the browser with no server required.
+Technical Highlights:
+
+-Multi-cloud support (GCP · AWS · Azure) with provider-aware prompt engineering, monitoring toggles, and budget-ceiling constraints passed directly into the Gemini prompt.
+-Structured AI output using responseSchema (JSON mode) to enforce typed proposal objects — eliminating parsing failures and guaranteeing consistent title, description, diagram, terraform, and runningCost fields.
+-Excalidraw canvas dynamically keyed on proposal + provider + timestamp to force clean re-renders on proposal switching, avoiding stale diagram state.
+-Mermaid syntax auto-repair layer that validates and normalises AI output (adds missing flowchart TD headers, strips code fences) before rendering.
+-Dark/light mode, animated cloud-provider gradient proposal cards, and keyboard-accessible UI built with Mantine UI v7 + Tabler Icons.
 
 ### **Infrastructure Automation Platform**
 **Role:** Full-Stack Engineer | **Tech Stack:** React | Node.js | Docker | Terraform | GCP | GitHub Actions
