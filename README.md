@@ -6,7 +6,7 @@
 
 ## 🎯 Professional Summary
 
-I'm a results-driven Cloud & DevOps engineer with hands-on expertise in designing, deploying, and managing scalable cloud infrastructure on Google Cloud Platform (GCP). Currently a final-year Cybersecurity student with **proven production experience** at Xpress Gaming, where I engineered automation solutions that reduced operational bottlenecks by **35%**.
+I'm a results-driven Cloud & DevOps engineer with hands-on expertise in designing, deploying, and managing scalable cloud infrastructure on Google Cloud Platform (GCP). Currently a final-year Cybersecurity student with **proven production experience** at Xpress Gaming, where I engineered automation solutions that reduced operational bottlenecks by **55%**.
 
 Specializing in **containerized workloads (Kubernetes/GKE)**, **Infrastructure-as-Code (Terraform)**, **CI/CD pipeline design**, and **cloud security**. I'm passionate about building reliable, secure systems and have direct experience managing enterprise-scale deployments.
 
