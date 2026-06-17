@@ -58,10 +58,10 @@ Specializing in **containerized workloads (Kubernetes/GKE)**, **Infrastructure-a
 
 ## 💼 Professional Experience
 
-### **Technical Intern → Retained Client Project**
-**Xpress Gaming** | Pune, Maharashtra | *June 2025 – Present*
+### **Forward deplyoment engineer → Retained Client Project**
+**Xpress Gaming** | Pune, Maharashtra | *June 2025 – November2025*
 
-- **Engineered automation solutions** reducing manual art asset processing time by **35%** across cross-functional teams
+- **Engineered automation solutions** reducing manual art asset processing time by **55%** across cross-functional teams
 - **Designed and deployed production-ready applications** with focus on scalability, reliability, and operational efficiency
 - **Built internal tooling infrastructure** to standardize asset generation, organization, and versioning—eliminating daily coordination overhead between 3+ teams
 - **Collaborated with technical and creative teams** to understand requirements and deliver solutions that directly improved operational metrics
@@ -127,14 +127,22 @@ Technical Highlights:
 
 ### **Education**
 - **B.Tech in Computer Science Engineering (Cyber Security)**
-  - G.H Raisoni College of Engineering, Nashik
-  - Expected Graduation: 2026
+  - G.H Raisoni College of Engineering, Nagpur
+  - Graduated: 2026
   - Focus: Cloud Security, Infrastructure Security, DevOps
 
 ### **Certifications**
 - **Google Cloud Certified Associate Cloud Engineer (ACE)** — Verified via Credly | 2026
 - **Google Introduction to Generative AI** — Verified via Credly | 2026
-
+- **Observability in Google Cloud** — Coursera | 2026
+- **Logging and Monitoring in Google Cloud** — Coursera | 2025
+- **Claude code in action** — Verified by skilljar | 2026
+- **Mitigating Security Vulnerabilities on Google Cloud** — Coursera | 2025
+- **Security Best Practices in Google Cloud** — Coursera | 2025
+- **Managing Security in Google Cloud** — Coursera | 2025
+- **Networking in Google Cloud: Fundamentals** — Udemy | 2025
+- **Google Cloud Fundamentals: Core Infrastructure** — Coursera | 2024
+  
 ---
 
 ## 🎯 Core Competencies
