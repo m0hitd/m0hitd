@@ -162,7 +162,7 @@ Technical Highlights:
 
 ## 📈 Key Metrics & Impact
 
-- **35% reduction** in manual art asset processing time through automation (Xpress Gaming)
+- **55% reduction** in manual art asset processing time through automation (Xpress Gaming)
 - **100% uptime** across production Kubernetes deployments with automated scaling and health monitoring
 - **Modular Terraform codebase** supporting 3+ environment deployments with zero manual configuration
 - **Sub-5-minute CI/CD pipelines** enabling frequent, reliable deployments
