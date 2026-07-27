@@ -133,21 +133,6 @@ G.H. Raisoni College of Engineering, Nagpur | 2026
 | Networking in Google Cloud: Fundamentals | Udemy | 2025 |
 | Google Cloud Fundamentals: Core Infrastructure | Coursera | 2024 |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hitd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/m0hitd)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m0hitd&theme=dark&hide_border=false)](https://github.com/m0hitd)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&theme=dark&hide_border=false&layout=compact)](https://github.com/m0hitd)
-
-</div>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square)
 
