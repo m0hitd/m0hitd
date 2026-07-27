@@ -1,229 +1,154 @@
-# Hi there, I'm Mohit Debnath 
+# Mohit Debnath
 
-**Google Cloud Certified Associate Cloud Engineer | DevOps & Cloud Infrastructure Specialist**
+**Google Cloud ACE | Cloud Engineering | DevOps | Platform Engineering**
 
----
-
-## 🎯 Professional Summary
-
-I'm a results-driven Cloud & DevOps engineer with hands-on expertise in designing, deploying, and managing scalable cloud infrastructure on Google Cloud Platform (GCP). Currently a final-year Cybersecurity student with **proven production experience** at Xpress Gaming, where I engineered automation solutions that reduced operational bottlenecks by **55%**.
-
-Specializing in **containerized workloads (Kubernetes/GKE)**, **Infrastructure-as-Code (Terraform)**, **CI/CD pipeline design**, and **cloud security**. I'm passionate about building reliable, secure systems and have direct experience managing enterprise-scale deployments.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m0hitdebnath) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m0hitd) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitdebnath537@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m0hitdebnath)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m0hitd)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitdebnath537@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_8177920581-brightgreen?logo=whatsapp&logoColor=white)](tel:+918177920581)
 
 ---
 
-## 💻 Tech Stack & Expertise
+## About
 
-### **Cloud Platforms**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+B.Tech CSE (Cyber Security) 2026 graduate from G.H. Raisoni College of Engineering, Nagpur. Google Cloud Associate Cloud Engineer certified. Open to relocation anywhere in India.
 
-**Services:** GKE (Google Kubernetes Engine) | Cloud IAM | VPC Networking | Cloud Load Balancing | Cloud Storage | Cloud SQL
+I interned at Xpress Gaming (Pune) where I built a Python automation tool connecting ChatGPT's Image API with Google Apps Script and Google Drive/Docs. Cut manual art asset processing time by 35% across 3+ teams.
 
-### **Container Orchestration & Infrastructure**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### **Monitoring, Observability & Reliability**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### **Programming & Development**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### **Operating Systems & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+My projects cover GCP infrastructure provisioning, Kubernetes deployments, AI-powered architecture tooling, and full-stack cloud dashboards. Looking for entry-level roles in cloud engineering, DevOps, and platform engineering.
 
 ---
 
-## 💼 Professional Experience
+## Tech Stack
 
-### **Forward deplyoment engineer → Retained Client Project**
-**Xpress Gaming** | Pune, Maharashtra | *June 2025 – November2025*
+**Cloud**
+GCP: GKE, Cloud Run, IAM, VPC, Pub/Sub, Cloud Functions, Cloud Build, Artifact Registry, Cloud Storage, Cloud SQL
 
-- **Engineered automation solutions** reducing manual art asset processing time by **55%** across cross-functional teams
-- **Designed and deployed production-ready applications** with focus on scalability, reliability, and operational efficiency
-- **Built internal tooling infrastructure** to standardize asset generation, organization, and versioning—eliminating daily coordination overhead between 3+ teams
-- **Collaborated with technical and creative teams** to understand requirements and deliver solutions that directly improved operational metrics
+**Containers and Orchestration**
+Kubernetes, Docker, Helm
 
----
+**IaC and CI/CD**
+Terraform, GitHub Actions, Jenkins
 
-##  Featured Projects
+**Monitoring**
+Prometheus, Grafana
 
-### **AI ENTERPRISE ARCHITECT**
-Role: Full-Stack Engineer | Tech Stack: React | TypeScript | Vite | Gemini AI | Mermaid.js | Excalidraw | Firebase
+**Languages**
+Python, JavaScript, Node.js, Bash
 
-Key Achievements:
-
-=Built a browser-based AI architecture tool that converts plain-English requirements into production-ready multi-cloud infrastructure proposals in seconds
-Integrated Google Gemini 2.5 Flash with a structured JSON schema to consistently return 3 ranked architecture proposals — each containing a diagram, Terraform HCL, and monthly cost estimate.
--Implemented a Mermaid → Excalidraw rendering pipeline that transforms AI-generated diagram syntax into fully interactive, pannable/zoomable architecture canvases with cloud-provider SVG icon overlays.
--Built a Terraform code viewer with HCL syntax highlighting, one-click copy, and .tf file download — enabling direct deployment from the browser
-Deployed via Firebase Hosting with a Vite build pipeline, serving a fully client-side SPA with zero backend infrastructure.
--Result: End-to-end architecture design workflow — from a sentence of requirements to deployable Terraform code — achieved entirely in the browser with no server required.
-Technical Highlights:
-
--Multi-cloud support (GCP · AWS · Azure) with provider-aware prompt engineering, monitoring toggles, and budget-ceiling constraints passed directly into the Gemini prompt.
--Structured AI output using responseSchema (JSON mode) to enforce typed proposal objects — eliminating parsing failures and guaranteeing consistent title, description, diagram, terraform, and runningCost fields.
--Excalidraw canvas dynamically keyed on proposal + provider + timestamp to force clean re-renders on proposal switching, avoiding stale diagram state.
--Mermaid syntax auto-repair layer that validates and normalises AI output (adds missing flowchart TD headers, strips code fences) before rendering.
--Dark/light mode, animated cloud-provider gradient proposal cards, and keyboard-accessible UI built with Mantine UI v7 + Tabler Icons.
-
-### **Infrastructure Automation Platform**
-**Role:** Full-Stack Engineer | **Tech Stack:** React | Node.js | Docker | Terraform | GCP | GitHub Actions
-
-**Key Achievements:**
-- Developed a **full-stack dashboard** for automated GCP resource provisioning and management
-- Implemented **Infrastructure-as-Code (IaC) workflows** using modular Terraform modules with environment-based configuration
-- Built **GitHub Actions CI/CD pipelines** for automated testing, validation, and deployment
-- Integrated **Terraform Cloud backend** for state management and collaborative infrastructure lifecycle management
-- **Result:** Reduced infrastructure provisioning time from manual deployments to automated, repeatable workflows
-
-**Technical Highlights:**
-- Modular, reusable Terraform code supporting multi-environment deployments (dev, staging, prod)
-- RESTful APIs connecting frontend UI to infrastructure provisioning backend
-- Automated testing and validation in CI/CD pipeline for reliability
+**Frontend**
+React, TypeScript, Next.js
 
 ---
 
-### **Kubernetes-Native Flask Deployment with Helm & Auto-Scaling**
-**Role:** DevOps Engineer | **Tech Stack:** Kubernetes (GKE) | Helm | Python (Flask) | Docker | GCP | Prometheus
+## Experience
 
-**Key Achievements:**
-- **Architected and deployed** containerized Flask backend on Google Kubernetes Engine (GKE)
-- Designed **modular Helm Charts** for Infrastructure-as-Code cluster management (Deployments, Services, ConfigMaps, StatefulSets)
-- Implemented **Horizontal Pod Autoscaler (HPA)** for dynamic workload scaling based on CPU utilization thresholds
-- Configured **resource limits and health checks** (liveness/readiness probes) for production-grade reliability
-- Set up **Prometheus monitoring** for cluster and application-level metrics
+**Software Engineer Intern**
+Xpress Gaming | Pune | June 2025 - November 2025
 
-**Technical Highlights:**
-- Standardized Helm Charts eliminating manual configuration errors and reducing deployment time
-- Auto-scaling ensuring high availability under variable traffic loads while optimizing cloud costs
-- Production-ready security posture with IAM-restricted networking and resource quotas
+- Built a Python automation tool integrating ChatGPT's Image API with Google Apps Script, Google Drive, and Docs
+- Reduced manual art asset processing time by 35%
+- Standardized asset generation and versioning across 3+ teams, removing daily coordination overhead
 
 ---
 
-## 🎓 Education & Certifications
+## Projects
 
-### **Education**
-- **B.Tech in Computer Science Engineering (Cyber Security)**
-  - G.H Raisoni College of Engineering, Nagpur
-  - Graduated: 2026
-  - Focus: Cloud Security, Infrastructure Security, DevOps
+**[AI Enterprise Architect](https://github.com/m0hitd)**
+`React` `TypeScript` `Gemini 2.5 Flash` `Terraform` `Firebase`
 
-### **Certifications**
-- **Google Cloud Certified Associate Cloud Engineer (ACE)** — Verified via Credly | 2026
-- **Google Introduction to Generative AI** — Verified via Credly | 2026
-- **Observability in Google Cloud** — Coursera | 2026
-- **Logging and Monitoring in Google Cloud** — Coursera | 2025
-- **Claude code in action** — Verified by skilljar | 2026
-- **Mitigating Security Vulnerabilities on Google Cloud** — Coursera | 2025
-- **Security Best Practices in Google Cloud** — Coursera | 2025
-- **Managing Security in Google Cloud** — Coursera | 2025
-- **Networking in Google Cloud: Fundamentals** — Udemy | 2025
-- **Google Cloud Fundamentals: Core Infrastructure** — Coursera | 2024
-  
----
+Browser-based tool that converts plain-English requirements into ranked, production-ready multi-cloud architecture proposals.
 
-## 🎯 Core Competencies
-
-| **Domain** | **Skills** |
-|-----------|-----------|
-| **Cloud Engineering** | GCP (GKE, IAM, VPC, Load Balancing), multi-region deployments, security best practices |
-| **Container Orchestration** | Kubernetes (GKE), Helm, StatefulSets, Deployments, Services, Persistent Volumes |
-| **Infrastructure-as-Code** | Terraform, modular code design, state management, multi-environment configurations |
-| **CI/CD & Automation** | GitHub Actions, Jenkins, automated testing, deployment pipelines, git workflows |
-| **Monitoring & Observability** | Prometheus, Grafana, health checks, resource optimization, alerting strategies |
-| **DevOps Practices** | containerization (Docker), cluster orchestration, auto-scaling, load balancing, security hardening |
-| **Programming** | Python, Node.js, JavaScript, Bash scripting, REST APIs |
-| **System Security** | IAM policies, network segmentation, secrets management, vulnerability assessment |
+- Gemini 2.5 Flash returns 3 ranked proposals per query, each with a diagram, Terraform HCL, and monthly cost estimate
+- Built a Mermaid-to-Excalidraw rendering pipeline generating interactive, pannable architecture canvases with cloud-provider SVG icons
+- Multi-cloud support (GCP, AWS, Azure) with provider-aware prompts, monitoring toggles, and budget constraints
+- Deployed on Firebase Hosting as a fully client-side SPA, zero backend infrastructure
 
 ---
 
-## 📈 Key Metrics & Impact
+**[Infrastructure Automation Platform](https://github.com/m0hitd)**
+`React` `Node.js` `Docker` `Terraform` `GCP` `GitHub Actions`
 
-- **55% reduction** in manual art asset processing time through automation (Xpress Gaming)
-- **100% uptime** across production Kubernetes deployments with automated scaling and health monitoring
-- **Modular Terraform codebase** supporting 3+ environment deployments with zero manual configuration
-- **Sub-5-minute CI/CD pipelines** enabling frequent, reliable deployments
+Full-stack dashboard for automated GCP resource provisioning.
 
----
-
-## 💡 What I'm Looking For
-
-I'm seeking opportunities in:
-- **Cloud Engineering** (Cloud Architect, Cloud Infrastructure Engineer)
-- **DevOps Engineering** (DevOps Engineer, Platform Engineer)
-- **Site Reliability Engineering (SRE)** (SRE, Reliability Engineer)
-- **Forward Deployment Engineering** (FDE, Client Solutions Engineer)
-- **Cloud Associate Roles** (Cloud Associate Engineer, Cloud Solutions Associate)
-
-I'm particularly interested in roles where I can:
-- Design and implement scalable, secure cloud infrastructure
-- Build reliable automation and CI/CD systems
-- Contribute to system reliability and operational excellence
-- Work with Kubernetes, GCP, and modern DevOps practices
+- Modular Terraform modules with environment-based config (dev, staging, prod)
+- GitHub Actions pipeline for automated testing, validation, and deployment
+- Terraform Cloud backend for state management across the infrastructure lifecycle
 
 ---
 
-## 📊 GitHub Stats
+**[Kandivali Skill Centre](https://github.com/m0hitd)**
+`Next.js` `React` `Kubernetes` `Docker`
+
+Web platform with 20,000+ user registrations.
+
+- Containerized with Docker and orchestrated on Kubernetes
+
+---
+
+**[Kubernetes-Native Flask Deployment](https://github.com/m0hitd)**
+`GKE` `Helm` `Flask` `Docker` `Prometheus`
+
+- Deployed containerized Flask app on GKE using modular Helm Charts (Deployments, Services, ConfigMaps, StatefulSets)
+- Implemented Horizontal Pod Autoscaler for dynamic scaling based on CPU thresholds
+- Configured liveness/readiness probes and resource limits for production reliability
+- Set up Prometheus monitoring for cluster and application-level metrics
+
+---
+
+**[CloudMesh](https://github.com/m0hitd)**
+`Multi-cloud` `Cost Management` `Compliance`
+
+Multi-cloud cost and compliance dashboard for tracking and comparing resource usage across cloud providers.
+
+---
+
+## Publication
+
+**Forensic Extractor: An Integrated Framework for Disk Image Artifact Extraction and Timeline Analysis**
+IEEE Conference | Accepted 2026
+Co-authored research on automated disk forensics and timeline reconstruction from disk images.
+
+---
+
+## Education
+
+**B.Tech in Computer Science Engineering (Cyber Security)**
+G.H. Raisoni College of Engineering, Nagpur | 2026
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Google Cloud Certified Associate Cloud Engineer (ACE) | Credly | 2026 |
+| Google Introduction to Generative AI | Credly | 2026 |
+| Observability in Google Cloud | Coursera | 2026 |
+| Claude Code in Action | Skilljar | 2026 |
+| Logging and Monitoring in Google Cloud | Coursera | 2025 |
+| Mitigating Security Vulnerabilities on Google Cloud | Coursera | 2025 |
+| Security Best Practices in Google Cloud | Coursera | 2025 |
+| Managing Security in Google Cloud | Coursera | 2025 |
+| Networking in Google Cloud: Fundamentals | Udemy | 2025 |
+| Google Cloud Fundamentals: Core Infrastructure | Coursera | 2024 |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hitd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=400)](https://github.com/m0hitd)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hitd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/m0hitd)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m0hitd&theme=dark&hide_border=false)](https://github.com/m0hitd)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m0hitd&theme=dark&hide_border=false)](https://github.com/m0hitd)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&theme=dark&hide_border=false&layout=compact&card_width=400)](https://github.com/m0hitd)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&theme=dark&hide_border=false&layout=compact)](https://github.com/m0hitd)
 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m0hitd&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/m0hitd)
-
-</div>
-
----
-
-## 📝 Dev Quote
-
-> *"Infrastructure is code, and code must be reliable, scalable, and secure."* — DevOps Philosophy
-
----
-
-## 👁️ Profile Views
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square)
 
-</div>
-
----
-
-**Last Updated:** June 2026 | *Open to opportunities* ✨
+Open to cloud engineering, DevOps, and platform engineering roles across India.
