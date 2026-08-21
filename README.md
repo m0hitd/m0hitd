@@ -115,27 +115,12 @@ Multi-cloud cost and compliance dashboard for tracking and comparing resource us
 Co-authored research on automated disk forensics and timeline reconstruction from disk images. Accepted at IEEE Conference, 2026.
 
 ---
+## GitHub Activity
 
-## 5. Dynamic Content & Activity (Automated)
-
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://demolab.com" alt="GitHub Streak" height="180" />
-      </td>
-    </tr>
-  </table>
+<p align="center"> 
 </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
 ---
 
 ## Connect
