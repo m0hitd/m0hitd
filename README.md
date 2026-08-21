@@ -13,7 +13,7 @@
 
 Fresh CSE (Cyber Security) grad from GHRCE Nagpur, GCP Associate Cloud Engineer certified.
 
-Also co-authored an IEEE paper on automated disk forensics — because apparently I enjoy making computers do tedious things so humans don't have to.
+Also co-authored an IEEE paper on automated disk forensics.
 
 Looking for entry-level cloud, DevOps, or platform engineering roles. Open to relocating anywhere in India.
 
@@ -63,7 +63,7 @@ React · TypeScript · Next.js
 
 ## Featured Projects & Contributions
 
-**[AI Enterprise Architect](https://github.com/m0hitd)**
+**[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)**
 `React` `TypeScript` `Gemini 2.5 Flash` `Terraform` `Firebase`
 
 Browser-based tool that converts plain-English requirements into multi-cloud architecture proposals.
@@ -75,7 +75,7 @@ Browser-based tool that converts plain-English requirements into multi-cloud arc
 
 ---
 
-**[Infrastructure Automation Platform](https://github.com/m0hitd)**
+**[Infrastructure Automation Platform](https://github.com/m0hitd/infra-automation-platform)**
 `React` `Node.js` `Docker` `Terraform` `GCP` `GitHub Actions`
 
 Dashboard for automated GCP resource provisioning.
@@ -86,7 +86,7 @@ Dashboard for automated GCP resource provisioning.
 
 ---
 
-**[Kubernetes-Native Flask Deployment](https://github.com/m0hitd)**
+**[Kubernetes-Native Flask Deployment](https://github.com/m0hitd/kubernetes-python-helm-deployment)**
 `GKE` `Helm` `Flask` `Docker` `Prometheus`
 
 - Deployed containerized Flask app on GKE using modular Helm Charts (Deployments, Services, ConfigMaps, StatefulSets)
@@ -96,7 +96,7 @@ Dashboard for automated GCP resource provisioning.
 
 ---
 
-**[Kandivali Skill Centre](https://github.com/m0hitd)**
+**[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)**
 `Next.js` `React` `Kubernetes` `Docker`
 
 Civic web platform with 20,000+ user registrations. Containerized with Docker and orchestrated on Kubernetes.
