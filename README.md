@@ -11,14 +11,15 @@
 
 ## About Me
 
-B.Tech CSE (Cyber Security) graduate from G.H. Raisoni College of Engineering, Nagpur — 2026. Google Cloud Associate Cloud Engineer certified. Open to relocation anywhere in India.
+Fresh CSE (Cyber Security) grad from GHRCE Nagpur, GCP Associate Cloud Engineer certified.
 
-At Xpress Gaming (Pune), I built a Python automation tool that connected ChatGPT's Image API with Google Apps Script, Google Drive, and Docs. It cut manual art asset processing time by 35% and removed daily coordination overhead across 3+ teams.
+Also co-authored an IEEE paper on automated disk forensics — because apparently I enjoy making computers do tedious things so humans don't have to.
 
-Co-authored an IEEE paper on automated disk forensics (Forensic Extractor), accepted 2026.
+Looking for entry-level cloud, DevOps, or platform engineering roles. Open to relocating anywhere in India.
 
-Looking for entry-level roles in cloud engineering, DevOps, or platform engineering.
+I like hands-on infrastructure work, learn fast.
 
+Let's build something.
 ---
 
 ## Tech Stack & Skills
