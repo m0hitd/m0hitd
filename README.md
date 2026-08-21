@@ -116,24 +116,26 @@ Co-authored research on automated disk forensics and timeline reconstruction fro
 
 ---
 
-## GitHub Activity
+## 5. Dynamic Content & Activity (Automated)
+
+<h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0hitd&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://demolab.com" alt="GitHub Streak" height="180" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hitd&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0hitd&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## Connect
