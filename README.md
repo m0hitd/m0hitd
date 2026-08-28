@@ -119,12 +119,7 @@ Co-authored research on automated disk forensics and timeline reconstruction fro
 
 <p align="center"> 
 </p>
-<p align="center">
-  <a href="https://github.com">
-    <img src="[![GitHub Streak](https://vercel.app)](https://github-readme-streak-stats-eight.vercel.app/demo/)
- />
-  </a>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
 
 
 ---
