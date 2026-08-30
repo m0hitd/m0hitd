@@ -1,118 +1,93 @@
-# Mohit Debnath
+<div align="right">
 
-**Cloud Engineering · DevOps · Platform Engineering · Google Cloud ACE**
+  [![Linkedin Badge](https://img.shields.io/badge/-m0hitdebnath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m0hitdebnath/)](https://www.linkedin.com/in/m0hitdebnath/)
+  [![GitHub Badge](https://img.shields.io/badge/-m0hitd-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/m0hitd)](https://github.com/m0hitd)
+  [![Gmail Badge](https://img.shields.io/badge/-mohitdebnath537-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitdebnath537@gmail.com)](mailto:mohitdebnath537@gmail.com)
+  [![Credly Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com)](https://www.credly.com)
+</div>
+<hr>
+<p>
+My name is Mohit Debnath, and I like making infrastructure do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Co-authored an IEEE paper on automated disk forensics because breaking disks apart sounded fun. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering — anywhere in India, bags packed.
+</p>
+<p>
+All said, I like deploying things that stay up, writing Helm charts at odd hours, eating whatever street food the city I'm in is known for, and trying to make Terraform configs that don't make the next person cry.
+</p>
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m0hitdebnath)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m0hitd)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitdebnath537@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_8177920581-brightgreen?logo=whatsapp&logoColor=white)](tel:+918177920581)
+### ☁️ How I'd Define Me... Literally
 
----
+```python
+class Mohit:
+    def __init__(self):
+        self.name = "Mohit Debnath"
+        self.work = ["Open to Opportunities"]
+        self.education = ["GHRCE Nagpur — B.Tech CSE (Cyber Security)"]
+        self.certification = "Google Cloud Associate Cloud Engineer"
+        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "IEEE papers"]
 
-## About Me
+    def tech_stack(self):
+        return {
+            "cloud": ["GCP — GKE", "Cloud Run", "IAM", "VPC", "Pub/Sub", "Cloud Functions",
+                       "Cloud Build", "Artifact Registry", "Cloud Storage", "Cloud SQL"],
+            "containers": ["Kubernetes", "Docker", "Helm"],
+            "iac_cicd": ["Terraform", "GitHub Actions", "Jenkins"],
+            "monitoring": ["Prometheus", "Grafana"],
+            "languages": ["Python", "JavaScript", "Node.js", "Bash"],
+            "frontend": ["React", "TypeScript", "Next.js"],
+        }
 
-Fresh CSE (Cyber Security) grad from GHRCE Nagpur, GCP Associate Cloud Engineer certified.
+    def current_location(self):
+        return "India 🇮🇳"
 
-Also co-authored an IEEE paper on automated disk forensics.
+    def next_location(self):
+        return "Wherever the offer letter says"
 
-Looking for entry-level cloud, DevOps, or platform engineering roles. Open to relocating anywhere in India.
+    def currently(self):
+        return {
+            "building": ["AI Enterprise Architect — plain English to multi-cloud proposals",
+                         "Infra Automation Platform — GCP provisioning dashboard"],
+            "learning": ["Advanced Kubernetes patterns", "Platform engineering"],
+            "reading": ["SRE Book", "Kubernetes Up & Running"],
+        }
+```
 
-I like hands-on infrastructure work, learn fast.
+<hr>
 
-Let's build something.
----
+### 🚀 Things I've Built
 
-## Tech Stack & Skills
+- **[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)** — Type requirements in plain English, get 3 ranked architecture proposals with diagrams, Terraform HCL, and cost estimates. React + Gemini 2.5 Flash + Firebase. No backend needed.
+- **[Infra Automation Platform](https://github.com/m0hitd/infra-automation-platform)** — Dashboard for automated GCP provisioning with modular Terraform, GitHub Actions CI/CD, and Terraform Cloud state management.
+- **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** — Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
+- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** — Civic platform with 20,000+ registrations. Dockerized and orchestrated on Kubernetes.
+- **IEEE Publication** — Co-authored research on automated disk forensics and timeline reconstruction. Accepted at IEEE Conference, 2026.
 
-**Cloud**
-GCP — GKE · Cloud Run · IAM · VPC · Pub/Sub · Cloud Functions · Cloud Build · Artifact Registry · Cloud Storage · Cloud SQL
+<hr>
 
-**Containers & Orchestration**
-Kubernetes · Docker · Helm
+### 👾 Cool Stuff Everyone Should See
 
-**IaC & CI/CD**
-Terraform · GitHub Actions · Jenkins
+- <a href="https://playground.tensorflow.org/">Peel Open</a> a Neural Network 🧠
+- <a href="https://landscape.cncf.io/">The CNCF Landscape</a> — zoom out and question your life choices ☁️
+- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a> that's saved me more than once 🔧
 
-**Monitoring**
-Prometheus · Grafana
+<hr>
 
-**Languages**
-Python · JavaScript · Node.js · Bash
+### 🤠 My Cozy Corner of the Internet
 
-**Frontend**
-React · TypeScript · Next.js
+- I co-authored an <a href="#">IEEE paper on disk forensics</a> because breaking things academically is also valid 🔬
+- My GCP ACE cert — proof that I can click the right buttons *and* write the right CLI commands ☁️
+- <a href="https://github.com/m0hitd">My GitHub</a> — where YAML files go to become infrastructure 🏗️
 
-<br>
+<hr>
 
-**Certifications**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
+</p>
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Google Cloud Certified Associate Cloud Engineer (ACE) | Google / Credly | 2026 |
-| Google Introduction to Generative AI | Google / Credly | 2026 |
-| Observability in Google Cloud | Coursera | 2026 |
-| Claude Code in Action | Skilljar | 2026 |
-| Logging and Monitoring in Google Cloud | Coursera | 2025 |
-| Mitigating Security Vulnerabilities on Google Cloud | Coursera | 2025 |
-| Security Best Practices in Google Cloud | Coursera | 2025 |
-| Managing Security in Google Cloud | Coursera | 2025 |
-| Networking in Google Cloud: Fundamentals | Udemy | 2025 |
-| Google Cloud Fundamentals: Core Infrastructure | Coursera | 2024 |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
----
-
-## Featured Projects & Contributions
-
-**[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)**
-`React` `TypeScript` `Gemini 2.5 Flash` `Terraform` `Firebase`
-
-Browser-based tool that converts plain-English requirements into multi-cloud architecture proposals.
-
-- Returns 3 ranked proposals per query, each with a diagram, Terraform HCL, and monthly cost estimate
-- Built a Mermaid-to-Excalidraw rendering pipeline with interactive, pannable canvases and cloud-provider SVG icons
-- Supports GCP, AWS, and Azure with budget constraints and monitoring toggles
-- Deployed on Firebase Hosting as a fully client-side SPA — no backend required
-
----
-
-**[Infrastructure Automation Platform](https://github.com/m0hitd/infra-automation-platform)**
-`React` `Node.js` `Docker` `Terraform` `GCP` `GitHub Actions`
-
-Dashboard for automated GCP resource provisioning.
-
-- Modular Terraform modules with environment-based config (dev, staging, prod)
-- GitHub Actions pipeline for testing, validation, and deployment
-- Terraform Cloud backend for state management across the lifecycle
-
----
-
-**[Kubernetes-Native Flask Deployment](https://github.com/m0hitd/kubernetes-python-helm-deployment)**
-`GKE` `Helm` `Flask` `Docker` `Prometheus`
-
-- Deployed containerized Flask app on GKE using modular Helm Charts (Deployments, Services, ConfigMaps, StatefulSets)
-- Implemented Horizontal Pod Autoscaler based on CPU thresholds
-- Configured liveness/readiness probes and resource limits
-- Set up Prometheus monitoring for cluster and application-level metrics
-
----
-
-**[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)**
-`Next.js` `React` `Kubernetes` `Docker`
-
-Civic web platform with 20,000+ user registrations. Containerized with Docker and orchestrated on Kubernetes.
-
----
-
-**[CloudMesh](https://github.com/m0hitd)**
-`Multi-cloud` `Cost Management` `Compliance`
-
-Multi-cloud cost and compliance dashboard for tracking and comparing resource usage across providers.
-
----
-
-**IEEE Publication — Forensic Extractor**
-
-Co-authored research on automated disk forensics and timeline reconstruction from disk images. Accepted at IEEE Conference, 2026.
+<p align="center"><i>Open to cloud engineering, DevOps, and platform engineering roles across India.</i></p>
 
 ---
 ## GitHub Activity
