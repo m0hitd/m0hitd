@@ -71,7 +71,7 @@ class Mohit:
 
 ### 🤠 My Cozy Corner of the Internet
 
-- <a href="https://www.iomttraces.com" Isle of Man TT </a>
+- <a href="https://www.iomttraces.com"> Isle of Man TT </a>
 - My GCP ACE cert — proof that I can click the right buttons *and* write the right CLI commands ☁️
 - <a href="https://github.com/m0hitd">My GitHub</a> — where YAML files go to become infrastructure 🏗️
 
@@ -85,6 +85,8 @@ class Mohit:
 <p align="center"><i>Open to cloud engineering, DevOps, and platform engineering roles across India.</i></p>
 
 ---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=m0hitd&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark)
 ## GitHub Activity
 
 <p align="center"> 
