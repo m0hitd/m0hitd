@@ -79,9 +79,6 @@ class Mohit:
 
 <hr>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile Views" />
