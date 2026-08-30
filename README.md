@@ -7,14 +7,14 @@
 </div>
 <hr>
 <p>
-My name is Mohit Debnath, and I like making infrastructure do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Co-authored an IEEE paper on automated disk forensics because breaking disks apart sounded fun. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering — anywhere in India, bags packed.
+My name is Mohit Debnath, and I like making infrastructure do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Co-authored an IEEE paper on automated disk forensics because breaking disks apart sounded fun. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering,  anywhere in India, bags packed.
 </p>
 <p>
-All said, I like deploying things that stay up, writing Helm charts at odd hours, eating whatever street food the city I'm in is known for, and trying to make Terraform configs that don't make the next person cry.
+All said, I like shipping deployments, writing Terraform and YAML that doesn't make the next engineer cry, playing table tennis, or lye down on a mountain's green pasture.
 </p>
 <hr>
 
-### ☁️ How I'd Define Me... Literally
+### ☁️ How I'd Define Me...
 
 ```python
 class Mohit:
@@ -23,7 +23,7 @@ class Mohit:
         self.work = ["Open to Opportunities"]
         self.education = ["GHRCE Nagpur — B.Tech CSE (Cyber Security)"]
         self.certification = "Google Cloud Associate Cloud Engineer"
-        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "IEEE papers"]
+        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "Table Tennis", "mountain exploration]
 
     def tech_stack(self):
         return {
@@ -44,10 +44,10 @@ class Mohit:
 
     def currently(self):
         return {
-            "building": ["AI Enterprise Architect — plain English to multi-cloud proposals",
-                         "Infra Automation Platform — GCP provisioning dashboard"],
-            "learning": ["Advanced Kubernetes patterns", "Platform engineering"],
-            "reading": ["SRE Book", "Kubernetes Up & Running"],
+            "building": ["AI Enterprise Architect - plain English to multi-cloud proposals",
+                         "Infra Automation Platform - GCP provisioning dashboard"],
+            "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure],
+            "reading": ["System Design Primer"],
         }
 ```
 
@@ -55,11 +55,10 @@ class Mohit:
 
 ### 🚀 Things I've Built
 
-- **[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)** — Type requirements in plain English, get 3 ranked architecture proposals with diagrams, Terraform HCL, and cost estimates. React + Gemini 2.5 Flash + Firebase. No backend needed.
+- **[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)** — Type requirements in plain English, get 3 ranked architecture proposals with diagrams, Terraform HCL, and cost estimates. React + Vertex AI + Firebase. No backend needed.
 - **[Infra Automation Platform](https://github.com/m0hitd/infra-automation-platform)** — Dashboard for automated GCP provisioning with modular Terraform, GitHub Actions CI/CD, and Terraform Cloud state management.
 - **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** — Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
 - **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** — Civic platform with 20,000+ registrations. Dockerized and orchestrated on Kubernetes.
-- **IEEE Publication** — Co-authored research on automated disk forensics and timeline reconstruction. Accepted at IEEE Conference, 2026.
 
 <hr>
 
