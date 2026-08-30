@@ -23,7 +23,7 @@ class Mohit:
         self.work = ["Open to Opportunities"]
         self.education = ["GHRCE Nagpur — B.Tech CSE (Cyber Security)"]
         self.certification = "Google Cloud Associate Cloud Engineer"
-        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "Table Tennis", "mountain exploration]
+        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "Table Tennis", "trekking"]
 
     def tech_stack(self):
         return {
@@ -72,8 +72,8 @@ class Mohit:
 ### 🤠 My Cozy Corner of the Internet
 
 - <a href="https://www.iomttraces.com"> Isle of Man TT </a>
-- My GCP ACE cert — proof that I can click the right buttons *and* write the right CLI commands ☁️
-- <a href="https://github.com/m0hitd">My GitHub</a> — where YAML files go to become infrastructure 🏗️
+- My GCP ACE cert, proof that I can click the right buttons *and* write the right CLI commands. 
+- <a href="https://github.com/m0hitd">My GitHub</a> where YAML files go to become infrastructure.
 
 <hr>
 
