@@ -86,12 +86,11 @@ class Mohit:
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=m0hitd&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark)
-## GitHub Activity
-
-<p align="center"> 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=m0hitd&langs_count=4&theme=dark" alt="Top Langs" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" />
+
 
 
 ---
