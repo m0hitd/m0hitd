@@ -7,14 +7,14 @@
 </div>
 <hr>
 <p>
-My name is Mohit Debnath, and I like making infrastructure do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Co-authored an IEEE paper on automated disk forensics because breaking disks apart sounded fun. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering,  anywhere in India, bags packed.
+My name is Mohit Debnath, and I like making infrastructure do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering,  anywhere in India, bags packed.
 </p>
 <p>
-All said, I like shipping deployments, writing Terraform and YAML that doesn't make the next engineer cry, playing table tennis, or lye down on a mountain's green pasture.
+All said, I like shipping deployments, writing Terraform and YAML that doesn't make the next engineer cry, playing table tennis, or lay down on a mountain's green pasture.
 </p>
 <hr>
 
-### ☁️ How I'd Define Me...
+### How I'd Define Myself....
 
 ```python
 class Mohit:
@@ -46,7 +46,7 @@ class Mohit:
         return {
             "building": ["AI Enterprise Architect - plain English to multi-cloud proposals",
                          "Infra Automation Platform - GCP provisioning dashboard"],
-            "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure],
+            "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure",
             "reading": ["System Design Primer"],
         }
 ```
@@ -55,24 +55,23 @@ class Mohit:
 
 ### 🚀 Things I've Built
 
-- **[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)** — Type requirements in plain English, get 3 ranked architecture proposals with diagrams, Terraform HCL, and cost estimates. React + Vertex AI + Firebase. No backend needed.
-- **[Infra Automation Platform](https://github.com/m0hitd/infra-automation-platform)** — Dashboard for automated GCP provisioning with modular Terraform, GitHub Actions CI/CD, and Terraform Cloud state management.
-- **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** — Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
-- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** — Civic platform with 20,000+ registrations. Dockerized and orchestrated on Kubernetes.
+- **[AI Enterprise Architect](https://github.com/m0hitd/Stack-Draft)** - Type requirements in plain English, get 3 ranked architecture proposals with diagrams, Terraform HCL, and cost estimates. React + Vertex AI + Firebase. No backend needed.
+- **[Infra Automation Platform](https://github.com/m0hitd/infra-automation-platform)** - Dashboard for automated GCP provisioning with modular Terraform, GitHub Actions CI/CD, and Terraform Cloud state management.
+- **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** - Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
+- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** - Civic blue collar job platform with 20,000+ registrations. Dockerized and orchestrated on Kubernetes.
 
 <hr>
 
 ### 👾 Cool Stuff Everyone Should See
 
-- <a href="https://playground.tensorflow.org/">Peel Open</a> a Neural Network 🧠
-- <a href="https://landscape.cncf.io/">The CNCF Landscape</a> — zoom out and question your life choices ☁️
-- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a> that's saved me more than once 🔧
+- <a href="https://www.youtube.com/watch?v=o8NPllzkFhE"> Linus Torvalds
+- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a> that's saved me more than once  
 
 <hr>
 
 ### 🤠 My Cozy Corner of the Internet
 
-- I co-authored an <a href="#">IEEE paper on disk forensics</a> because breaking things academically is also valid 🔬
+- <a href="https://www.iomttraces.com" Isle of Man TT </a>
 - My GCP ACE cert — proof that I can click the right buttons *and* write the right CLI commands ☁️
 - <a href="https://github.com/m0hitd">My GitHub</a> — where YAML files go to become infrastructure 🏗️
 
