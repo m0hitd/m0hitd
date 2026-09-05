@@ -78,10 +78,6 @@ class Mohit:
 <hr>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
 <p align="center"><i>Open to cloud engineering, DevOps, and platform engineering roles across India.</i></p>
 
 ---
