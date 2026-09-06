@@ -10,7 +10,7 @@
 My name is Mohit Debnath, and I like making infrastructure that do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering,  anywhere in India, bags packed.
 </p>
 <p>
-All said, I like shipping deployments, writing Terraform and YAML that doesn't make the next engineer cry, playing table tennis, or lay down on a mountain's green pasture.
+All said, I like shipping deployments, writing Terraform and YAML, playing table tennis, or lay down on a mountain's green pasture.
 </p>
 <hr>
 
