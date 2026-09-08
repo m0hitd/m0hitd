@@ -72,8 +72,7 @@ class Mohit:
 ###  My Cozy Corner of the Internet
 
 - <a href="https://www.iomttraces.com"> Isle of Man TT </a>
-- My GCP ACE cert, proof that I can click the right buttons *and* write the right CLI commands. 
-- <a href="https://github.com/m0hitd">My GitHub</a> where YAML files go to become infrastructure.
+- <a href="[https://www.iomttraces.com](https://www.youtube.com/watch?v=H77vNFk3neg)"> Some Table tennis content
 
 <hr>
 
