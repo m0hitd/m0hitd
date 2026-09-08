@@ -62,14 +62,14 @@ class Mohit:
 
 <hr>
 
-### 👾 Cool Stuff Everyone Should See
+###  Cool Stuff Everyone Should See
 
 - <a href="https://www.youtube.com/watch?v=o8NPllzkFhE"> Linus Torvalds
 - <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a>  
 
 <hr>
 
-### 🤠 My Cozy Corner of the Internet
+###  My Cozy Corner of the Internet
 
 - <a href="https://www.iomttraces.com"> Isle of Man TT </a>
 - My GCP ACE cert, proof that I can click the right buttons *and* write the right CLI commands. 
