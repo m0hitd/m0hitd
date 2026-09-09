@@ -72,7 +72,7 @@ class Mohit:
 ###  My Cozy Corner of the Internet
 
 - <a href="https://www.iomttraces.com"> Isle of Man TT </a>
-- <a href="[https://www.iomttraces.com](https://www.youtube.com/watch?v=H77vNFk3neg)"> Some Table tennis content
+- <a href="https://www.youtube.com/watch?v=H77vNFk3neg"> Some Table tennis content
 
 <hr>
 
