@@ -1,9 +1,10 @@
 <div align="right">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-m0hitdebnath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m0hitdebnath/)](https://www.linkedin.com/in/m0hitdebnath/)
-  [![GitHub Badge](https://img.shields.io/badge/-m0hitd-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/m0hitd)](https://github.com/m0hitd)
-  [![Gmail Badge](https://img.shields.io/badge/-mohitdebnath537-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitdebnath537@gmail.com)](mailto:mohitdebnath537@gmail.com)
-  [![Credly Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com)](https://www.credly.com/badges/2a6038a7-0504-4011-bb92-be13b2d5f1b1)
+[![Linkedin Badge](https://img.shields.io/badge/-m0hitdebnath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m0hitdebnath/)](https://www.linkedin.com/in/m0hitdebnath/)
+[![GitHub Badge](https://img.shields.io/badge/-m0hitd-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/m0hitd)](https://github.com/m0hitd)
+[![Gmail Badge](https://img.shields.io/badge/-mohitdebnath537-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitdebnath537@gmail.com)](mailto:mohitdebnath537@gmail.com)
+[![Credly Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com)](https://www.credly.com/badges/2a6038a7-0504-4011-bb92-be13b2d5f1b1)
+[![Website Badge](https://img.shields.io/badge/-mohitdebnath.dev-000000?style=flat-square&logo=globe&logoColor=white&link=https://mohitdebnath.dev)](https://m0hitd.github.io/portfolio)
 </div>
 <hr>
 <p>
