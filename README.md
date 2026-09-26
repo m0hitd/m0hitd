@@ -31,7 +31,7 @@ class Mohit:
             "cloud": ["GCP — GKE", "Cloud Run", "IAM", "VPC", "Pub/Sub", "Cloud Functions",
                        "Cloud Build", "Artifact Registry", "Cloud Storage", "Cloud SQL"],
             "containers": ["Kubernetes", "Docker", "Helm"],
-            "iac_cicd": ["Terraform", "GitHub Actions", "Jenkins"],
+            "iac_cicd": ["Terraform", "GitHub Actions"],
             "monitoring": ["Prometheus", "Grafana"],
             "languages": ["Python", "JavaScript", "Node.js", "Bash"],
             "frontend": ["React", "TypeScript", "Next.js"],
