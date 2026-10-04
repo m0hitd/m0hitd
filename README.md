@@ -100,7 +100,7 @@ class Mohit:
 - **Phone / WhatsApp:** +91 81779 20581
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 Open to cloud engineering, DevOps, and platform engineering roles across India.
