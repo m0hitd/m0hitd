@@ -99,6 +99,9 @@ class Mohit:
 - **Email:** [mohitdebnath537@gmail.com](mailto:mohitdebnath537@gmail.com)
 - **Phone / WhatsApp:** +91 81779 20581
 
-![Profile views](https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile views" />
+</div>
+
 
 Open to cloud engineering, DevOps, and platform engineering roles across India.
