@@ -1,17 +1,17 @@
 <div align="right">
 
-[![Linkedin Badge](https://img.shields.io/badge/-m0hitdebnath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m0hitdebnath/)](https://www.linkedin.com/in/m0hitdebnath/)
-[![GitHub Badge](https://img.shields.io/badge/-m0hitd-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/m0hitd)](https://github.com/m0hitd)
-[![Gmail Badge](https://img.shields.io/badge/-mohitdebnath537-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitdebnath537@gmail.com)](mailto:mohitdebnath537@gmail.com)
-[![Credly Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com)](https://www.credly.com/badges/2a6038a7-0504-4011-bb92-be13b2d5f1b1)
-[![Website Badge](https://img.shields.io/badge/-mohitdebnath.dev-000000?style=flat-square&logo=globe&logoColor=white&link=https://Website)](https://m0hitd.github.io/portfolio)
+[![Linkedin Badge](https://img.shields.io/badge/-m0hitdebnath-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m0hitdebnath/)
+[![GitHub Badge](https://img.shields.io/badge/-m0hitd-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/m0hitd)
+[![Gmail Badge](https://img.shields.io/badge/-mohitdebnath537-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohitdebnath537@gmail.com)
+[![Credly Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/2a6038a7-0504-4011-bb92-be13b2d5f1b1)
+[![Website Badge](https://img.shields.io/badge/-mohitdebnath.dev-000000?style=flat-square&logo=globe&logoColor=white)](https://m0hitd.github.io/portfolio)
 </div>
 <hr>
 <p>
-My name is Mohit Debnath, and I like making infrastructure that do things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering,  anywhere in India, bags packed.
+My name is Mohit Debnath, and I like making infrastructure that does things automatically. Studied Cyber Security at GHRCE Nagpur, got hooked on cloud somewhere between my first <code>terraform apply</code> and watching a GKE cluster spin up from a YAML file. Now I'm a Google Cloud certified Associate Cloud Engineer looking for my first real gig in cloud, DevOps, or platform engineering, anywhere in India, bags packed.
 </p>
 <p>
-All said, I like shipping deployments, writing Terraform and YAML, playing table tennis, or lay down on a mountain's green pasture.
+All said, I like shipping deployments, writing Terraform and YAML, playing table tennis, or lying down on a mountain's green pasture.
 </p>
 <hr>
 
@@ -24,12 +24,12 @@ class Mohit:
         self.work = ["Open to Opportunities"]
         self.education = ["GHRCE Nagpur — B.Tech CSE (Cyber Security)"]
         self.certification = "Google Cloud Associate Cloud Engineer"
-        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "Table Tennis", "trekking"]
+        self.hobbies = ["Breaking & fixing infra", "Street food hunts", "Table Tennis", "Trekking"]
 
     def tech_stack(self):
         return {
             "cloud": ["GCP — GKE", "Cloud Run", "IAM", "VPC", "Pub/Sub", "Cloud Functions",
-                       "Cloud Build", "Artifact Registry", "Cloud Storage", "Cloud SQL"],
+                      "Cloud Build", "Artifact Registry", "Cloud Storage", "Cloud SQL"],
             "containers": ["Kubernetes", "Docker", "Helm"],
             "iac_cicd": ["Terraform", "GitHub Actions"],
             "monitoring": ["Prometheus", "Grafana"],
@@ -47,7 +47,7 @@ class Mohit:
         return {
             "building": ["AI Enterprise Architect - plain English to multi-cloud proposals",
                          "Infra Automation Platform - GCP provisioning dashboard"],
-            "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure",
+            "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure"],
             "reading": ["System Design Primer"],
         }
 ```
@@ -61,24 +61,23 @@ class Mohit:
 - **[AWS API Gateway Blue-Green Deployment](https://github.com/m0hitd/aws-api-gateway-bluegreen)** - Production-grade blue-green deployment lab with canary traffic shifting and auto-rollback. Built with Terraform, Lambda, CloudWatch, and GitHub Actions CI/CD. Demonstrates advanced deployment patterns and infrastructure-as-code discipline.
 - **[GCP Microservices Lab](https://github.com/m0hitd/gcp-microservices-lab)** - Microservices deployment on GCP using Cloud Run, Pub/Sub, API Gateway, VPC networking, and IAM. End-to-end cloud-native architecture with security and networking baked in.
 - **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** - Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
-- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** - Civic blue collar job platform with 21,000+ registrations and 24,000+ visits, Delivered frontend, API integration and Deployment(AWS Elastic Beanstalk).
+- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** - Civic blue collar job platform with 21,000+ registrations and 24,000+ visits. Delivered frontend, API integration, and deployment (AWS Elastic Beanstalk).
 
 <hr>
 
-###  Cool Stuff Everyone Should See
+### Cool Stuff Everyone Should See
 
-- <a href="https://www.youtube.com/watch?v=o8NPllzkFhE"> Linus Torvalds
-- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a>  
-
-<hr>
-
-###  My Cozy Corner of the Internet
-
-- <a href="https://www.iomttraces.com"> Isle of Man TT </a>
-- <a href="https://www.youtube.com/watch?v=H77vNFk3neg"> Some Table tennis content
+- <a href="https://www.youtube.com/watch?v=o8NPllzkFhE">Linus Torvalds</a>
+- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a>
 
 <hr>
 
+### My Cozy Corner of the Internet
+
+- <a href="https://www.iomttraces.com">Isle of Man TT</a>
+- <a href="https://www.youtube.com/watch?v=H77vNFk3neg">Some Table Tennis content</a>
+
+<hr>
 
 <p align="center"><i>Open to cloud engineering, DevOps, and platform engineering roles across India.</i></p>
 
@@ -89,8 +88,6 @@ class Mohit:
   <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
 
-
-
 ---
 
 ## Connect
@@ -100,8 +97,5 @@ class Mohit:
 - **Phone / WhatsApp:** +91 81779 20581
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fm0hitd&label=Profile%20views&countColor=%23263759&style=flat-square" alt="Profile views" />
 </div>
-
-
-Open to cloud engineering, DevOps, and platform engineering roles across India.
