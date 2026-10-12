@@ -99,9 +99,7 @@ class Mohit:
 - **Email:** [mohitdebnath537@gmail.com](mailto:mohitdebnath537@gmail.com)
 - **Phone / WhatsApp:** +91 81779 20581
 
-<p align="center">
-  <img src="https://targetcounter.com" alt="Profile views" />
-</p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile views" /> </div> 
 
 
 Open to cloud engineering, DevOps, and platform engineering roles across India.
