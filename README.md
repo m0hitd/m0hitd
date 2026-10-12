@@ -86,7 +86,7 @@ class Mohit:
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=m0hitd&langs_count=4&theme=dark" alt="Top Langs" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=m0hitd&hide_border=true&theme=dark" alt="GitHub Streak" width="45%" />
 </p>
 
 
