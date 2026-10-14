@@ -68,7 +68,7 @@ class Mohit:
 ###  Cool Stuff Everyone Should See
 
 - <a href="https://www.youtube.com/watch?v=o8NPllzkFhE"> Linus Torvalds
-- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart</a>  
+- <a href="https://learnk8s.io/troubleshooting-deployments">The K8s Troubleshooting Flowchart </a>  
 
 <hr>
 
