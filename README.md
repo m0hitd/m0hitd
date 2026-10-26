@@ -45,8 +45,9 @@ class Mohit:
 
     def currently(self):
         return {
-            "building": ["AI Enterprise Architect - plain English to multi-cloud proposals",
-                         "Infra Automation Platform - GCP provisioning dashboard"],
+            "building": ["Stack Draft AI - plain English to multi-cloud proposals",
+                         "Infra Automation Platform - GCP provisioning dashboard",
+                        "AWS Blue Green Dplyoment"],
             "learning": ["Advanced Kubernetes patterns", "System Design", "Deep Cloud Infrastructure",
             "reading": ["System Design Primer"],
         }
