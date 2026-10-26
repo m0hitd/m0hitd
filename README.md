@@ -61,7 +61,7 @@ class Mohit:
 - **[AWS API Gateway Blue-Green Deployment](https://github.com/m0hitd/aws-api-gateway-bluegreen)** - Production-grade blue-green deployment lab with canary traffic shifting and auto-rollback. Built with Terraform, Lambda, CloudWatch, and GitHub Actions CI/CD. Demonstrates advanced deployment patterns and infrastructure-as-code discipline.
 - **[GCP Microservices Lab](https://github.com/m0hitd/gcp-microservices-lab)** - Microservices deployment on GCP using Cloud Run, Pub/Sub, API Gateway, VPC networking, and IAM. End-to-end cloud-native architecture with security and networking baked in.
 - **[K8s Flask on GKE](https://github.com/m0hitd/kubernetes-python-helm-deployment)** - Flask app on GKE with Helm, HPA, health probes, and Prometheus monitoring. The whole nine yards.
-- **[Kandivali Skill Centre](https://northmumbaiskillcentre.com/)** - Civic blue collar job platform with 21,000+ registrations and 24,000+ visits, Delivered frontend, API integration and Deployment(AWS Elastic Beanstalk).
+- **[Kandivali Skill Centre](https://kandivaliskillcentre.net/)** - Civic blue collar job platform with 21,000+ registrations and 24,000+ visits, Delivered frontend, API integration and Deployment(AWS Elastic Beanstalk).
 
 <hr>
 
