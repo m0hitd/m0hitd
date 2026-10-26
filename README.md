@@ -99,6 +99,7 @@ class Mohit:
 - **LinkedIn:** [linkedin.com/in/m0hitdebnath](https://linkedin.com/in/m0hitdebnath)
 - **Email:** [mohitdebnath537@gmail.com](mailto:mohitdebnath537@gmail.com)
 - **Phone / WhatsApp:** +91 81779 20581
+- **Personal Website:** [m0hitdebnath](https://m0hitd.github.io/portfolio/)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=m0hitd&color=blue&style=flat-square" alt="Profile views" /> </div> 
 
